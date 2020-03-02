@@ -6,3 +6,6 @@ Library/
 
 Temp/
 .vs/
+SeaBattle.sln
+obj/
+Assembly-CSharp.csproj
